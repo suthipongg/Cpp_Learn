@@ -1,0 +1,110 @@
+1. Introduction                                                         1
+2. Installation and Setup                                               14
+3. Curriculum Overview                                                  16
+4. Getting Started                                                      19
+5. Structure of a C++ Program                                           25
+    #include Preprocessor Directive                                     34
+    Comments                                                            35
+    The main() function                                                 38
+    Namespaces                                                          39
+    Basic Input and Output (I/O) using cin and cout                     43
+6. Variables and Constants                                              46
+    What is a variable?                                                 48
+    Declaring and Initializing Variables                                51
+    C++ Built-in Primitive Types                                        56
+    What is the Size of a Variable (sizeof)                             63
+    What is a Constant?                                                 65
+    Declaring and Using Constants                                       66
+7. Arrays and Vectors                                                   73
+    What is an Array?                                                   74
+    Declaring and Initializing Arrays                                   78
+    Accessing and Modifying Array Elements                              80
+    Multidimensional Arrays                                             83
+    Declaring and Initializing Vectors                                  87
+    Accessing and Modifying Vector Elements                             93
+8. Statements and Operators                                             98
+    Expressions and Statements                                          99
+    Using Operators                                                     103
+    The Assignment Operators                                            104
+    Mixed Expressions and Conversions                                   105
+    Testing for Equality                                                109
+    Relational Operators                                                111
+    Logical Operators                                                   112
+    Compound Assignment Operators                                       119
+    Operator Precedence                                                 121
+9. Controlling Program Flow                                             124
+    if Statement                                                        127
+    if else Statement                                                   132
+    Nested if Statements                                                137
+    switch-case Statements                                              141
+    Conditional Operator                                                146
+    Looping                                                             148
+    for Loop                                                            151
+    range-based for Looping                                             158
+    while Loop                                                          164
+    do while Looping                                                    171
+    continue and break                                                  174
+    Infinite Loops                                                      176
+    Nested Loops                                                        181
+10. Characters and Strings                                              187
+    Character Functions                                                 188
+    C-Style Strings                                                     191
+    C++ Strings                                                         199
+11. Functions                                                           213
+    What is a Function?                                                 214
+    Function Definition                                                 221
+    Function Prototypes                                                 232
+    Function Parameters and the return Statements                       240
+    Default Argument Values                                             246    
+    Overloading Functions                                               250
+    Passing Arrays to Functions                                         255
+    Pass by Reference                                                   260
+    Scope Rules                                                         266
+    How do Function Calls Work?                                         270
+    inline Functions                                                    271
+    Recursive Functions                                                 273
+12. Pointers and Refferences                                            279
+    What is a Pointer?                                                  280
+    Declaring Pointers                                                  282
+    Accessing the Pointer Address and Storing Address in a Pointers     285
+    Dereferencing a Pointers                                            290
+    Dynamic Memory Allocation                                           293
+    The Relationship Between Arrays and Pointers                        298
+    Pointer Arithmetic                                                  304
+    Const and Pointers                                                  310
+    Passing Pointers to Functions                                       314
+    Returning a Pointer from a Function                                 317
+    Potential Pointer Pitfalls                                          323
+    What is a Reference?                                                328
+    L-values and R-Values                                               334
+    Section Recap                                                       340
+13. OOP - Classes and Objects                                           346
+    What is Object-Oriented Programming?                                347
+    What are Classes and Objects?                                       356
+    Declaring a Class and Creating Objects                              359
+    Accessing Class Members                                             365
+    public and private                                                  368
+    Implementing Member Methods                                         376
+    Constructors and Destructors                                        385
+    The Default Constructors                                            392
+    Overloading Constructors                                            398
+    Constructor Initialization lists                                    403
+    Delegating Constructors                                             409
+    Constructor Parameters and Default values                           413
+    Copy Constructors                                                   416
+    Shallow Copying with the Copy Constructor                           426
+    Deep Copying with the Copy Constructors                             434
+    Move Constructors                                                   442
+    The 'this' Pointer                                                  459
+    Using const with Classes                                            463
+    Static Class Members                                                470
+    Structs vs Classes                                                  477
+    Friends of a class                                                  481
+14. Operator Overloading                                                488
+    What is Operator Overloading?                                       489
+    Overloading the Assignment Operator (copy)                          496
+    Overloading the Assignment Operator (move)                          502
+    Overloading Operators as Member Functions                           507
+    Overloading Operators as Global Functions                           514
+    Overloading the Stream Insertion and Extraction Operators           521
+15. Inheritance                                                         526
